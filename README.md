@@ -1,6 +1,6 @@
 # Ignite Teams
 
-Ignite Teams is a app built with xpo, React Native, and Typescript. It allows users to register games and teams for these different games. The application stores the user-entered data using AsyncStorage in the memory of the mobile device running the app. Within the application, users can create new games, delete existing games, add participants, and remove participants from each game.
+Ignite Teams is a app built with expo, React Native, and Typescript. It allows users to register games and teams for these different games. The application stores the user-entered data using AsyncStorage in the memory of the mobile device running the app. Within the application, users can create new games, delete existing games, add participants, and remove participants from each game.
 
 ## Features
 
